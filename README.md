@@ -2,9 +2,9 @@
 
 I'm Gabriel, a computer engineer who's been journeying through the exciting realms of technology and cybersecurity.
 
-I’m currently working on [Wazuh](https://www.wazuh.com) and completed a diploma in cybersecurity at UP (Universidad de Palermo).
+I’m currently completed a diploma in cybersecurity at UP (Universidad de Palermo).
 
-I'm an educator at heart. I teach Operating Systems 2 at UNC, where I help students unravel the intricacies of modern computing systems. When I'm not in the classroom, you'll find me as a dedicated software engineer at Wazuh. My focus? Crafting robust solutions in C and C++ mostly.
+I'm an educator at heart. I teach Operating Systems 2 at UNC, where I help students unravel the intricacies of modern computing systems. When I'm not in the classroom, you'll find me as a dedicated software engineer at [Wazuh](https://www.wazuh.com). My focus? Crafting robust solutions in C and C++.
 
 I thrive on an unending curiosity. Learning is my passion, and I'm constantly exploring new horizons in the ever-evolving tech landscape. My undergraduate thesis delved into the fascinating realm of Petri Nets. These mathematical models provide a unique way to analyze and visualize concurrent systems. In 2022, I had the honor of sharing my expertise at MeetingCpp. I delivered a talk on Petri Nets, exploring their applications and significance in modern computing.
 
