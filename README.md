@@ -31,3 +31,6 @@ I am open to **academic collaborations**, **technical talks**, **research initia
 - Gabriel Valenzuela - "Unlocking Functional Power in C++20: Lessons from Haskell" - C++ London - [Video](https://youtu.be/q3PQbTcEtQQ)
 - Redes de Petri, algoritmo para la construcción de árboles de mínima cobertura (JAIIO 53) - [Article](https://www.researchgate.net/publication/383873554_Redes_de_Petri_algoritmo_para_la_construccion_de_arboles_de_minima_cobertura)
 - Diseño de domo estático (JAIIO 53) - [Article](https://www.researchgate.net/publication/383876036_Diseno_de_domo_estatico)
+- Tesis de grado - Algoritmo de mínima cobertura de Redes de Petri vectorizado y monitor concurrente de alto rendimiento - [Thesis](https://www.researchgate.net/publication/377386078_Algoritmo_de_minima_cobertura_de_Redes_de_Petri_vectorizado_y_monitor_concurrente_de_alto_rendimiento)
+- Tesis de grado - Algoritmo de mínima cobertura de Redes de Petri vectorizado y monitor concurrente de alto rendimiento - [Thesis](https://www.researchgate.net/publication/377386078_Algoritmo_de_minima_cobertura_de_Redes_de_Petri_vectorizado_y_monitor_concurrente_de_alto_rendimiento)
+- Infome de PS - Estudio del arte de simuladores de redes de petri - [Report](https://www.researchgate.net/publication/391195654_Informe_final_PS_Practica_supervisada)
