@@ -50,7 +50,7 @@
 ---
 
 ## 📢 Community & Teaching
-
+- Member of the IEEE
 - 🧩 Founder — [C+rd+ba](https://sites.google.com/view/cppcordoba/inicio), promoting C++ development in Córdoba.  
 - 🔗 Member — [RUNIC](https://sites.google.com/view/redrunic/inicio) (*Red Universitaria de Ingeniería en Computación*).  
 - 100+ hours of **university lectures** on operating systems, algorithms, and distributed systems.  
